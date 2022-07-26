@@ -32,6 +32,7 @@
     ]
   },
   "config": {
-    "optimize-autoloader": true
+    "optimize-autoloader": true,
+    "allow-plugins":true
   }
 }
