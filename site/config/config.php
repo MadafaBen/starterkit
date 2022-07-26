@@ -9,4 +9,5 @@
  */
 return [
     'debug' => true,
+    'url' => 'https://meinewebsite.azurewebsites.net',
 ];
