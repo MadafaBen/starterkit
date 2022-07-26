@@ -33,6 +33,6 @@
   },
   "config": {
     "optimize-autoloader": true,
-    "allow-plugins":true
+    "allow-plugins": true
   }
 }
